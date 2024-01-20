@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mavis Lim
 =================================================================================================================================
 
-I'm a first-year UTM student studying for a Bachelor's Degree in Computing (Software Engineering).
+I'm a first-year UTM student studying for a Bachelor's Degree in Computing (Software Engineering). I used to go to Penang Matriculation College for my Pre-U studies and I attended St. George's Girls School in Penang for my Secondary School studies.
 
 * 🌍  I'm based in Skudai, Malaysia
 * ✉️  You can contact me at [mavislim30@gmail.com](mailto:mavislim30@gmail.com)
